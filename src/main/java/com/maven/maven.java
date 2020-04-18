@@ -6,6 +6,8 @@ public class maven {
 		
 		System.out.println("jjjjj");
 		
+		System.out.println("uuuuuuu");
+		
 	}
 
 }
